@@ -18,7 +18,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header">
+      <div id="Portfolio">
         <nav>
           <ul>
             <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
