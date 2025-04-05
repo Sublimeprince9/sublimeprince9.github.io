@@ -1,6 +1,12 @@
-title: Manzi Mugisa 
-logo: /assets/img/logo.png
-description: This is the culmination of my work or work I have happened to collaborate on with companies, individuals and organisations.
-show_downloads: false
-google_analytics:
+title: Manzi Portfolio
+email: manzimugisa9@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I'm a certified expert in Digital & Web Design helping busy people like you generate more leads.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sublimeprince9.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
